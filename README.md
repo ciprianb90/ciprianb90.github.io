@@ -16,6 +16,8 @@ Website de tip magazin online - dezvoltat si lansat in anul 2020.
 - PHP cu framework-ul Laravel.
 - HTML, CSS, Javascript
 
+[Link catre varianta de productie](https://www.pizzatakeaway.ro)
+
 ---
 
 ### Pizzatakeaway aplicatie mobila(iOS/Android)
@@ -25,10 +27,12 @@ Aplicatie mobila pentru dizpozitive cu sistemul de operare iOS si Android - dezv
 #### Dezvoltare si implementari
 
 - Dezvoltarea aplicatiei mobile de tip "native application".
-- Implementarea serviciilor de Geo localizare.
+- Implementarea serviciilor de geo localizare.
 - Implementarea serviciilor de notificari push.
 
 #### Tehnologii folosite in vederea dezvoltarii
 
 - Javascript cu framework-ul ReactNative.
 - Redux
+
+[Link catre varianta de productie](http://onelink.to/pizzatakeaway)
